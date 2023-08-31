@@ -1,4 +1,4 @@
-// import { TEMPLATE FUNC } from './js/business';
+// import { Character } from './js/character';
 import './css/styles.css';
 
 

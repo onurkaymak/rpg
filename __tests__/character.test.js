@@ -7,8 +7,7 @@ describe('Character', () => {
         expect(character).toEqual({
             strength: 0,
             health: 0,
-            intelligence: 0,
-            stamina: 0
+            intelligence: 0
         });
     });
 });
